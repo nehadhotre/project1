@@ -1,0 +1,16 @@
+.winter {
+    background: url("./assets/snowman-1882635_1280.webp") no-repeat center center;
+    width:100%;
+    height: 650px;
+}
+
+.summer {
+    background: url("./assets/summer-814679_1280.jpg") no-repeat center center;
+    width:100%;
+    height: 650px;
+}
+.monsoon {
+    background: url("./assets/umbrella-4510667_1280.jpg") no-repeat center center;
+    width:100%;
+    height: 650px;
+}
